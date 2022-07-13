@@ -1,0 +1,44 @@
+body {
+    margin: 0px;
+
+}
+
+.high {
+    width: 100%;
+    height: 400px;
+    background: black;
+    position: absolute;
+    margin: 100px 0px 0px 0px;
+
+}
+.low {
+    height: 800px;
+    background: silver;
+    display: flex;
+}
+.target {
+    width:100%;
+    height: 100px;
+    position: absolute;
+    bottom: -50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box {
+    width: 100px;
+    height: 100px;
+    background: purple;
+    border-radius: 15px;
+}
+.card {
+    width: 100px;
+    height: 50px;
+    background: purple;
+    border-radius: 15px;
+    margin: 15px 30px 30px 30px;
+}
+.lupa {
+    font-size: 30px;
+    margin-left: 1400px;
+    margin-top: 30px;
+}

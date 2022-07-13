@@ -12,7 +12,7 @@
     display: flex;
     justify-content: center;
     align-content: center;
-    background: #149c2b;
+
 }
 .description > h3{
     text-align: center;
@@ -33,14 +33,17 @@
     display: block;
     width: 150px;
     height: 50px;
-    background: #149c2b;
-
-
+    background: silver;
 }
 
 
 
 
+.father{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 30px;
+}
 
 
 
